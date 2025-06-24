@@ -1,0 +1,930 @@
+Ingredient,Average Price
+Egg,5.71
+Bread,2.83
+Rye Bread,3.38
+Wheaten Bread,2.99
+White Bread,2.32
+Wholewheat Bread,2.99
+Wort,7.91
+Arrack,7.94
+Beer,10.29
+Bantu Beer,
+Brandy,5.64
+Anise Brandy,
+Apple Brandy,7.51
+Armagnac Brandy,
+Blackberry Brandy,
+Cherry Brandy,7.99
+Cognac Brandy,
+Papaya Brandy,
+Pear Brandy,6.24
+Plum Brandy,
+Raspberry Brandy,5.82
+Weinbrand Brandy,
+Gin,9.49
+Rum,3.99
+Whisky,17.16
+Bourbon Whisky,
+Canadian Whisky,5.75
+Finnish Whisky,
+Japanese Whisky,
+Malt Whisky,
+Scotch,4.79
+Wine,6.49
+Bilberry Wine,
+Botrytized Wine,
+Champagne,3.44
+Cider,4.75
+Plum Wine,
+Port Wine,9.24
+Red Wine,4.0
+Rose Wine,3.0
+Sake,10.38
+Sherry,7.69
+Sparkling Wine,8.26
+Strawberry Wine,6.11
+White Wine,8.24
+Coffee,19.39
+Mate,6.81
+Black Tea,8.12
+Green Tea,6.67
+Roibos Tea,7.2
+Barley,2.75
+Crispbread,3.99
+Malt,4.15
+Oats,4.19
+Rice,4.59
+Corn,7.19
+Corn Oil,6.59
+Popcorn,5.66
+Sweetcorn,4.18
+Butter,7.72
+Buttermilk,8.62
+Cheese,6.25
+Blue Cheese,5.66
+Camembert Cheese,6.24
+Cheddar Cheese,6.93
+Comte Cheese,6.49
+Cottage Cheese,4.1
+Cream Cheese,3.75
+Domiati Cheese,5.99
+Emmental Cheese,6.74
+Feta Cheese,5.55
+Goat Cheese,6.49
+Gruyere Cheese,7.49
+Limburger Cheese,6.62
+Mozzarella Cheese,6.74
+Munster Cheese,6.49
+Parmesan Cheese,6.39
+Provolone Cheese,6.87
+Romano Cheese,6.66
+Roquefort Cheese,6.59
+Russian Cheese,6.49
+Sheep Cheese,8.37
+Swiss Cheese,6.0
+Tilsit Cheese,6.49
+Ghee,15.49
+Milk,5.41
+Milk Fat,5.39
+Goat Milk,5.14
+Milk Powder,4.75
+Sheep Milk,6.94
+Skimmed Milk,5.29
+Yogurt,4.91
+Achilleas,
+Arar,6.74
+Buchu,
+Cajeput,
+Camphor,8.49
+Cascarilla,
+Cedar,10.69
+Chamomile,4.62
+Citronella Oil,7.0
+Citrus Peel Oil,9.66
+Eucalyptus Oil,10.39
+Fir,5.49
+Geranium,6.99
+Grapefruit Peel Oil,6.29
+Grass,6.1
+Hops Oil,5.93
+Hyacinth,
+Hyssop Oil,5.79
+Lemon Grass,4.32
+Lemon Peel Oil,9.66
+Lime Peel Oil,6.29
+Lovage,6.39
+Mandarin Orange Peel Oil,7.27
+Mastic Gum,4.68
+Mentha Oil,5.79
+Myrrh,
+Neroli Oil,7.0
+Orange Oil,6.78
+Orris,3.64
+Clary Sage,
+Red Sage,1.19
+Spanish Sage,
+Sandalwood,9.49
+Sea Buckthorns,
+Sweet Grass,3.0
+Valerian,
+Wattle,4.49
+Yarrow,14.99
+Ylang-Ylang,14.99
+Clam,3.91
+Crab,5.47
+Crayfish,12.49
+Kelp,3.12
+Krill,
+Lobster,5.91
+Mollusc,
+Oyster,3.93
+Prawn,10.29
+Scallop,6.19
+Shellfish,7.19
+Shrimp,10.74
+Trassi,11.83
+Squid,9.23
+Bonito,3.5
+Caviar,4.38
+Codfish,10.6
+Fish,9.16
+Fatty Fish,14.66
+Lean Fish,8.39
+Fish Oil,12.79
+Smoked Fish,11.83
+Salmon,8.49
+Artichoke,3.29
+Champaca,1.84
+Jasmine,8.99
+Lavendar,6.69
+Rose,3.02
+Apple,2.69
+Apple Sauce,4.32
+Apricot,6.7
+Avocado,4.25
+Babaco,3.43
+Banana,3.16
+Beli,9.62
+Byrsonima crassifolia,
+Cashew Apple,6.14
+Cherimoya,4.99
+Coconut,2.01
+Currant,5.75
+Black Currant,5.73
+Red Currant,
+White Currant,
+Dates,4.66
+Durian,18.0
+Elderberry,8.25
+Feijoa,
+Fig,7.59
+Grape,6.93
+Guava,3.98
+Hogplum,
+Jackfruit,2.27
+Kiwifruit,2.33
+Litchi,7.57
+Loquat,4.83
+Malay Apple,
+Mango,1.82
+Melon,5.08
+Musk Melon,8.65
+Naranjilla,
+Orange,4.91
+Bitter Orange,6.68
+Papaya,3.79
+Mountain Papaya,
+Passionfruit,3.29
+Yellow Passionfruit,
+Pawpaw,4.23
+Peach,4.46
+Pear,1.59
+Bartlett Pear,3.1
+Prickly Pear,6.59
+Pepino,
+Pineapple,3.09
+Plum,2.16
+Plumcot,8.71
+Pumpkin,7.03
+Quince,3.09
+Chinese Quince,
+Raisin,8.75
+Roseapple,
+Sapodilla,
+Soursop,3.19
+Spineless Monkey Orange,8.64
+Starfruit,4.99
+Tamarind,2.99
+Woodapple,
+Bilberry,8.84
+Blackberry,3.12
+Blueberry,5.74
+Cherry,6.12
+Bitter Cherry,7.99
+Sour Cherry,5.94
+Sweet Cherry,6.94
+Cloudberry,
+Cranberry,3.75
+Gooseberry,3.99
+Lingonberry,
+Loganberry,
+Raspberry,3.86
+Strawberry,6.19
+Strawberry Jam,9.92
+Bergamot,7.79
+Citrus Fruits,5.29
+Grapefruit,6.43
+Kumquat,
+Lemon,2.32
+Lime,5.19
+Mandarin Orange,5.89
+Satsuma Orange,6.52
+Tangerine,3.82
+Vanilla,8.21
+Mushroom,3.14
+Truffle,6.25
+Angelica,5.35
+Artemisia,
+Basil,2.89
+Buckwheat,5.07
+Calamus,3.82
+Chervil,
+Coriander,2.49
+Cornmint,
+Dill,4.09
+Fennel,4.56
+Fenugreek,9.39
+Garlic,4.05
+Lemon Balm,4.49
+Liqourice,
+Mint,2.4
+Rhubarb,10.9
+Rosemary,2.73
+Sage,4.15
+Spearmint,4.11
+Scotch Spearmint,5.5
+Tarragon,3.85
+Thyme,2.67
+Beef,9.7
+Beef Processed,7.49
+Chicken,11.02
+Frankfurter Sausage,6.41
+Ham,9.62
+Lamb,22.53
+Meat,12.97
+Mutton,10.34
+Pork,9.29
+Sukiyaki,
+Turkey,7.37
+Almond,7.75
+Brazil Nut,11.32
+Cocoa,11.8
+Beans,1.29
+Lima Beans,3.37
+Kidney Beans,1.65
+Peanut,6.2
+Peas,4.19
+Soybean,4.09
+Soybean Oil,4.39
+Soybean Sauce,3.94
+Filbert,6.49
+Hazelnut,6.59
+Macadamia Nut,11.16
+Pecans,6.81
+Walnut,7.92
+Muskmallow,
+Sesame,3.91
+Allium,16.09
+Alpinia,4.14
+Ceriman,
+Chicory,6.99
+Hops,14.16
+Laurel,2.49
+Myrtle,6.61
+Olive,2.62
+Pine,4.07
+Sassafras,
+Tea,6.1
+Fermented Tea,7.62
+Tobacco,9.5
+Watercress,3.52
+Creosote,
+Honey,12.62
+Macaroni,5.33
+Mustard Oil,6.66
+Peanut Butter,6.45
+Peanut Oil,5.18
+Rye,4.19
+Storax,8.0
+Vinegar,2.39
+Anise,5.33
+Anise Hyssop,
+Star Anise,6.26
+Caraway,5.99
+Cardamom,3.96
+Cassia,9.99
+Celery,4.17
+Cinnamon,4.61
+Clove,4.25
+Cumin,5.57
+Ginger,7.26
+Mace,3.79
+Marjoram,4.92
+Nutmeg,6.19
+Oregano,4.11
+Parsley,1.99
+Pepper,3.87
+Saffron,5.27
+Turmeric,5.53
+Green Beans,3.36
+Chive,2.79
+Endive,11.49
+Leek,3.99
+Lettuce,3.49
+Okra,2.69
+Onion,5.31
+Shallot,5.09
+Peppermint,7.39
+Broccoli,2.99
+Brussels Sprout,5.2
+Cabbage,3.43
+Cauliflower,4.55
+Horseradish,4.37
+Mustard,2.43
+Radish,3.25
+Turnip,2.72
+Kohlrabi,3.42
+Rutabaga,3.18
+Wasabi,2.89
+Capsicum,4.99
+Cherry Pepper,6.5
+Tomato,0.79
+Chayote,1.08
+Cucumber,3.99
+Beetroot,4.52
+Carrot,4.19
+Parsnip,14.81
+Sweet Potato,4.75
+Asparagus,4.7
+Cassava,6.26
+Potato,4.03
+Fried Potato,4.75
+Allspice,7.65
+Asafoetida,3.79
+Ashgourd,
+Bittergourd,1.69
+Bottlegourd,
+Canola Oil,8.09
+Carom Seed,1.25
+Chard,4.99
+Apple Cider Vinegar,4.95
+Colocasia,
+Curry Leaf,1.49
+Drumstick Leaf,9.2
+Eggplant,2.75
+Flaxseed,5.91
+Jalapeno,2.76
+Kenaf,3.24
+Lotus,4.55
+Nigella Seed,7.45
+Kewda,7.25
+Pomegranate,4.99
+Poppy Seed,3.49
+Spinach,3.87
+Turkey Berry,3.62
+Water Chestnut,5.49
+White Pepper,4.96
+Garcinia Indica,
+Cluster Bean,1.99
+Paneer,5.33
+Pigeon Pea,5.09
+Basmati Rice,5.52
+Ricotta Cheese,6.99
+Silver linden,
+Redskin onion,3.69
+Lemon verbena,7.37
+Cashew nut,15.79
+Burdock,3.13
+Borage,16.49
+Capers,2.87
+Safflower,13.16
+Chestnut,2.47
+Chickpea,2.64
+Pummelo,3.99
+Arabica coffee,19.37
+Japanese persimmon,
+Black crowberry,3.67
+Rocket salad,3.79
+Tartary buckwheat,
+Black huckleberry,
+Sunflower,6.49
+Swamp cabbage,
+Grass pea,2.79
+Lentils,3.07
+Garden cress,4.24
+Mexican oregano,1.79
+Lupine,4.35
+Medlar,4.94
+Mulberry,
+Black mulberry,
+Evening primrose,
+Millet,7.15
+Scarlet bean,4.52
+Pistachio,5.39
+Purslane,2.92
+Red raspberry,4.21
+Black raspberry,4.13
+Sorrel,2.64
+Summer savory,7.99
+Winter savory,
+Cherry tomato,6.66
+Rowanberry,
+Sorghum,5.99
+Dandelion,5.33
+Linden,5.85
+Small leaf linden,
+Wheat,5.19
+Sparkleberry,
+Common verbena,
+Adzuki bean,
+Gram bean,3.36
+Mung bean,4.82
+Climbing bean,
+Muscadine grape,
+Bayberry,6.62
+Elliott's blueberry,6.29
+Canada blueberry,3.32
+Buffalo currant,
+Deerberry,
+Ginseng,3.35
+Longan,5.0
+Rambutan,5.99
+Red rice,4.65
+Welsh onion,9.89
+Hard wheat,3.91
+Triticale,10.24
+Komatsuna,
+Pak choy,4.17
+Jostaberry,
+Kai lan,
+Pineappple sage,
+Skunk currant,
+Breakfast cereal,4.49
+Pasta,1.83
+Biscuit,3.97
+Sourdough,4.0
+Spirit,5.75
+Abalone,6.74
+Abiyuch,
+Acerola,
+Acorn,4.24
+Winter squash,7.27
+Agar,3.96
+Red king crab,
+Alfalfa,21.39
+Amaranth,8.75
+Arrowhead,3.96
+Arrowroot,8.99
+Atlantic herring,
+Atlantic mackerel,
+Painted comber,8.99
+Atlantic pollock,10.49
+Atlantic wolffish,
+Bamboo shoots,
+Striped bass,
+Beaver,9.31
+Beech nut,
+Beluga whale,
+Bison,5.45
+Black bear,7.5
+Alaska blackfish,
+Northern bluefin tuna,
+Bluefish,12.99
+Wild boar,19.29
+Bowhead whale,
+Breadfruit,4.35
+Rapini,5.42
+Brown bear,
+Buffalo,5.79
+Burbot,
+Giant butterbur,
+American butterfish,
+Butternut,7.11
+Butternut squash,6.81
+Cardoon,3.69
+Caribou,4.23
+Natal plum,9.99
+Carob,8.99
+Common carp,4.07
+Channel catfish,12.74
+Chia,9.69
+Chinese chestnut,2.49
+Garland chrysanthemum,
+Cisco,6.59
+Nuttall cockle,
+Common octopus,
+Corn salad,6.99
+Cottonseed,
+Catjang pea,
+Squashberry,
+Atlantic croaker,7.39
+Cusk,5.12
+Cuttlefish,11.24
+Mule deer,
+Devilfish,
+Dock,3.69
+Dolphin fish,8.39
+Freshwater drum,
+Wild duck,2.79
+Freshwater eel,
+Elk,5.0
+Emu,21.24
+Oregon yampah,
+European anchovy,
+European chestnut,10.99
+Turbot,
+Fireweed,
+Florida pompano,
+Ginkgo nuts,4.76
+Greylag goose,
+Greenland halibut,
+Groundcherry,
+Grouper,
+Haddock,5.99
+Hippoglossus,
+Horse,4.19
+Hyacinth bean,
+Irish moss,
+Pacific jack mackerel,
+Japanese chestnut,
+Jerusalem artichoke,6.49
+Jujube,3.42
+Jute,15.66
+Kale,3.12
+King mackerel,
+Lambsquarters,
+Leather chiton,
+Common ling,14.66
+Lingcod,
+White lupine,10.89
+Malabar spinach,5.14
+Mammee apple,
+Purple mangosteen,
+Alpine sweetvetch,
+Milkfish,6.26
+Monkfish,6.26
+Moose,6.5
+Moth bean,
+Mountain yam,
+Striped mullet,
+Muskrat,9.0
+New Zealand spinach,6.49
+Nopal,11.91
+Ocean pout,
+North Pacific giant octopus,
+Ohelo berry,
+Opossum,
+Ostrich,5.39
+Spotted seal,8.74
+Pacific herring,
+Pacific rockfish,
+Common persimmon,
+Pheasant,
+Northern pike,
+Pili nut,9.0
+Colorado pinyon,3.79
+Pitanga,
+French plantain,
+American pokeweed,
+Polar bear,9.99
+Prairie turnip,
+Quinoa,10.39
+European rabbit,
+Raccoon,
+Rainbow smelt,5.07
+Rainbow trout,10.87
+Malabar plum,
+Rose hip,10.12
+Roselle,
+Orange roughy,7.08
+Sablefish,
+Pink salmon,6.59
+Chum salmon,8.49
+Coho salmon,12.66
+Sockeye salmon,9.16
+Chinook salmon,9.99
+Atlantic salmon,6.99
+Salmonberry,
+Common salsify,
+Spanish mackerel,
+Pacific sardine,3.99
+Scup,1.5
+Sea cucumber,5.14
+Steller sea lion,
+Bearded seal,6.14
+Ringed seal,7.83
+Sea trout,
+Sesbania flower,
+American shad,4.95
+Shark,7.75
+Sheefish,7.19
+Sheepshead,
+Hedge mustard,3.39
+Snapper,
+Spelt,8.49
+Spirulina,6.15
+Squab,5.66
+Squirrel,8.99
+Greater sturgeon,
+White sucker,7.0
+Pumpkinseed sunfish,
+Swordfish,
+Taro,11.84
+Teff,
+Tilefish,
+Mexican groundcherry,1.79
+Towel gourd,
+Salmonidae,
+Walleye,
+Alaska pollock,5.03
+Whelk,5.87
+Broad whitefish,
+Whitefish,9.49
+Whiting,4.18
+Wild rice,6.31
+Tea leaf willow,6.95
+Winged bean,6.5
+Yam,4.15
+Jicama,3.1
+Yautia,
+Yellowfin tuna,5.87
+Yellowtail amberjack,
+Pollock,5.47
+Albacore tuna,3.5
+Atlantic halibut,
+Smelt,4.06
+Clupeinae,
+Spiny lobster,
+Black-eyed pea,1.93
+Deer,10.67
+Percoidei,
+Perciformes,
+Rabbit,19.08
+Beefalo,5.79
+Bivalvia,
+Flatfish,12.49
+Walrus,7.92
+Alaska wild rhubarb,
+Oriental wheat,
+Yardlong bean,1.9
+Great horned owl,
+Quail,5.56
+Boysenberry,4.0
+Rowal,3.92
+Jew's ear,
+Shiitake,4.87
+Purple laver,14.79
+Wakame,7.59
+Enokitake,
+Epazote,
+Oyster mushroom,4.87
+Cloud ear fungus,
+Maitake,4.17
+Ostrich fern,
+Spot croaker,7.12
+Sourdock,9.74
+Tinda,5.46
+Atlantic menhaden,
+Agave,8.19
+Narrowleaf cattail,
+Jellyfish,
+Anchovy,5.65
+Blue whiting,6.93
+Carp bream,4.32
+Chanterelle,4.99
+Sturgeon,
+Charr,4.99
+Common dab,
+Spiny dogfish,
+Anatidae,
+Anguilliformes,
+True frog,23.99
+Garfish,2.91
+Gadiformes,
+Mountain hare,11.74
+Lake trout,
+Lemon sole,10.66
+Lumpsucker,
+Scombridae,
+Norway haddock,10.49
+Norway pout,
+Oil palm,7.15
+Sago palm,
+Persimmon,2.24
+Pikeperch,
+Pleuronectidae,
+Rock ptarmigan,
+Pacific ocean perch,
+Black salsify,
+True seal,
+Red algae,
+Kombu,7.0
+Snail,3.99
+True sole,14.99
+Catfish,12.49
+Thistle,4.99
+Common Tuna,
+Cetacea,
+Columbidae,22.66
+Conch,4.36
+Berry wine,3.19
+Vodka,4.85
+Ice cream,5.99
+Vermouth,
+Madeira wine,
+Nougat,3.99
+Toffee,6.29
+Cake,4.63
+Pizza,
+Ymer,
+Pastry,5.31
+Drag̩e,3.69
+Chewing gum,3.67
+Marzipan,6.49
+Salad dressing,3.0
+Salt,5.24
+Cream,6.12
+Sugar,3.86
+Sausage,7.49
+Meatball,11.6
+Pate,5.65
+Meat bouillon,3.51
+Whey,38.79
+Casein,13.16
+Leavening agent,4.74
+Marshmallow,3.89
+Gelatin,2.09
+Water,2.7
+Milk Human,5.18
+Dumpling,5.58
+Soup,1.5
+Syrup,10.89
+Remoulade,
+Chocolate spread,6.34
+Fruit gum,2.0
+Meringue,4.43
+Cocoa butter,4.52
+Cocoa powder,7.94
+Chocolate,4.64
+Hot chocolate,11.99
+Kefir,5.29
+Miso,7.11
+Tofu,2.91
+Zwieback,
+Roe,9.32
+Cichlidae,
+Icing,3.46
+Snack bar,3.56
+Green turtle,
+Burrito,4.62
+Hamburger,7.93
+Taco,2.5
+Tortilla,4.32
+Nachos,4.74
+Salad,5.74
+Dulce de leche,3.94
+Topping,5.3
+Sweet custard,13.5
+Egg roll,4.97
+Heart of palm,3.29
+Potato chip,3.69
+Tortilla chip,4.49
+Corn chip,5.45
+Hibiscus tea,7.7
+Stew,2.26
+Gelatin dessert,3.59
+Junket,3.99
+Falafel,6.14
+Frybread,3.34
+Lasagna,6.16
+Morchella,2.0
+Pancake,3.81
+Pectin,6.01
+Pudding,2.49
+Waffle,4.29
+Soy milk,4.84
+Meatloaf,2.07
+Cocktail,6.56
+Couscous,4.14
+Bulgur,2.32
+Coffee mocha,11.26
+Chimichanga,
+Semolina,3.45
+Tapioca pearl,2.49
+Tostada,3.49
+Quesadilla,4.66
+Baked potato,3.99
+Hot dog,6.09
+Spread,4.99
+Enchilada,3.32
+Ketchup,6.25
+Adobo,3.14
+Horned melon,6.29
+Hushpuppy,
+Fruit juice,4.33
+Relish,2.65
+Fruit salad,2.29
+Soy yogurt,3.88
+Cold cut,7.5
+Mixed nuts,5.99
+Babassu palm,
+Shea tree,9.99
+Oil-seed Camellia,
+Ucuhuba,
+Phyllo dough,7.49
+Cooking oil,7.25
+Pie crust,4.09
+Pie,7.5
+Shortening,7.62
+Soy cream,5.27
+Ice cream cone,4.75
+Molasses,4.39
+Nance,5.41
+Natto,
+Ravioli,2.19
+Scrapple,4.71
+Succotash,
+Tamale,5.85
+Rice cake,4.19
+Tree fern,10.33
+Evaporated milk,3.65
+Flour,8.81
+Akutaq,
+Pita bread,2.69
+Focaccia,4.56
+Bagel,2.8
+Piki bread,2.62
+French toast,3.49
+Oat bread,2.66
+Potato bread,4.34
+Cornbread,3.57
+Corn grits,7.82
+Multigrain bread,3.5
+Rice bread,3.5
+Pan dulce,
+Raisin bread,3.37
+Wonton wrapper,4.24
+Trail mix,8.25
+Greenthread tea,10.69
+Vegetable juice,4.27
+Horchata,7.99
+Soft drink,6.8
+Milkshake,2.35
+Chocolate mousse,3.83
+Pupusa,7.12
+Empanada,5.94
+Arepa,6.17
+Ascidians,
+Gefilte fish,10.99
+Yellow pond lily,
+Fish burger,6.49
+Pot pie,8.25
+Stuffing,2.91
+Fudge,6.82
+Candy bar,3.96
+Condensed milk,4.48
+Margarine,7.4
+Hummus,4.69
+Potato puffs,6.19
+Potato gratin,4.26
+Chinese bayberry,
+Green zucchini,1.47
+Zucchini,3.68
+Saskatoon berry,
+Nanking cherry,
+Japanese pumpkin,4.5
+Guinea hen,
+Cucurbita,
+Anise Oil,7.0
+Apple Juice,5.03
+Coconut Milk,3.38
+Coconut Oil,10.09
+Hops Beer,15.82
+Lemon Juice,3.76
+Brown Rice,5.64
+Tomato Juice,4.84
+Tomato Paste,2.53
+Tomato Puree,2.24
+Coriander Seed,3.49
+Lard,3.32
+Cured Ham,20.88
+Cayenne,5.79
+Yeast,4.1
+Tequila,3.9
+Sauerkraut,5.35
+Baking Powder,6.25
+Monosodium Glutamate,4.29
+Citric Acid,5.89
+Cooking Spray,5.49
+Food Coloring,6.43
+Liquid Smoke,23.16

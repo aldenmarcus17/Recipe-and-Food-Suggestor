@@ -1,0 +1,53 @@
+# CSC111 Winter 2025: Python libraries we'll be using this semester.
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta~=2.9.1
+
+# Graphics and data visualization
+plotly>=5.22.0
+pygame==2.6.1
+
+# Data scraping
+pandas
+re
+time
+selenium
+
+# Additional dependencies based on your installed packages
+Jinja2
+MarkupSafe
+Pygments
+astroid
+attrs
+beautifulsoup4
+black
+certifi
+charset-normalizer
+click
+colorama
+dill
+idna
+iniconfig
+isort
+mccabe
+mypy-extensions
+packaging
+pathspec
+pip
+platformdirs
+pluggy
+pycodestyle
+pylint
+python-dateutil
+pytz
+requests
+six
+sortedcontainers
+soupsieve
+tabulate
+tenacity
+toml
+tomlkit
+typeguard
